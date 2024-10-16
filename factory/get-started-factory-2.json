@@ -1,0 +1,9 @@
+{
+	"name": "get-started-factory-2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b207b114-a552-464c-8073-8774980f9c23",
+		"tenantId": "a51a6642-5911-4306-a13c-f4731ab9c63f"
+	}
+}
